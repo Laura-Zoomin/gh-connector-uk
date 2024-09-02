@@ -9,7 +9,7 @@
 ##### h5 Heading
 ###### h6 Heading
 
-Alternatively, for H1 and H2, an underline-ish style:
+Alternatively, for H1 and H2, an underline-ish style.
 
 Alt-H1
 ======
