@@ -15,7 +15,7 @@ jobs:
       contents: read
     steps:
       - name: Github Uploader for Salesforce Unified Knowledge
-        uses: zoomin-software/s3-publish@v0.2.0
+        uses: zoomin-software/s3-publish@v0.2.1
         with:
           aws-key-id: ${{ secrets.AWS_KEY_ID }}
           aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
